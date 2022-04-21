@@ -6,7 +6,7 @@
 
 ### 🔗 Links
 
-<img src="https://img.shields.io/badge/My Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+<a href="https://soonseok2.github.io/"> <img src="https://img.shields.io/badge/My Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/> </a>
 
 
 <!--
